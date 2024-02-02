@@ -1,0 +1,105 @@
+{
+	"textures": [
+		{
+			"image": "player-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1439,
+				"h": 1748
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "mech1-blur_throw_sword_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1439,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1439,
+						"h": 1748
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1439,
+						"h": 1748
+					}
+				}
+			]
+		},
+		{
+			"image": "player-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1439,
+				"h": 1748
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "mech1-blur_throw_sword_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1439,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1439,
+						"h": 1748
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1439,
+						"h": 1748
+					}
+				}
+			]
+		},
+		{
+			"image": "player-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1439,
+				"h": 1748
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "mech1-blur_throw_sword_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1439,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1439,
+						"h": 1748
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1439,
+						"h": 1748
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9a416174346ca4898ed114e40f0e995e:a24af91cfd2045191c91501138a60f6b:48beba4cf32afda97446452688d9f7df$"
+	}
+}

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.wall-wallet {
+    background-color: transparent;
+    border-radius: 50%;
+    border-width: 10px;
+    border-color: black;
+    height: 90%;
+    width: 90%;
+    left: 5%;
+    position: absolute;
+}
